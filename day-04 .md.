@@ -1,0 +1,21 @@
+# Day 4 – Understanding Open Source Contributions
+
+Today I learned more about how contributions to open source projects work.
+
+I learned that an issue is a task, bug, question, or improvement that a project needs help with. Contributors can choose an issue, understand the problem, make the required changes, and submit their work for review.
+
+I also learned that GitHub uses commits to record changes and pull requests to propose those changes to a project.
+
+My goal is to become comfortable with this workflow before the Outreachy contribution period begins.
+
+## What I learned
+
+- Issues describe problems or tasks.
+- Commits record changes.
+- Pull requests allow changes to be reviewed.
+- Contributors should read the project's documentation before making changes.
+- Communication with maintainers and mentors is an important part of open source.
+
+## Next step
+
+I will practice creating a small change, committing it, and understanding the pull request process.
