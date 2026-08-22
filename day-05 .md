@@ -33,6 +33,7 @@ You can easily draw a reader's attention to key terms by using asterisks (*):
       (https://outreachy.org)
  - Code: To highlight a specific keyboard command or file name within a sentence, wrap it in backticks (').
        Example: 'README .md' turns into README .md.
+
 Summary
 Markdown strips away the distraction of styling menus, letting you focus entirely on explaining concepts clearly.
 Master these four basic rules, and you are ready to write professional open-source documentation!
