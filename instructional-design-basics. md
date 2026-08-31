@@ -1,0 +1,28 @@
+# How to Design a Step-by-Step Tutorial for New Software Users
+
+Creating an effective software tutorial is an exercise in empathy and clear communication. When a user opens a new product, they can easily feel overwhelmed. A great instructional designer strips away confusion and guides the learner to success.
+
+Here is the fundamental 3-step framework for building user-friendly educational content.
+
+## 1. Establish a Clear, Singular Goal
+Before writing a single instruction, define exactly what the user will achieve by the end of the guide. 
+* A software tutorial should focus on completing one simple task because:
+  - It reduces cognitive overload
+  - Provides immediate context
+
+## 2. List the Prerequisites and Requirements First
+Never surprise a learner halfway through a guide with a tool they don't have installed. Always include a "What You Need" section at the very top.
+* It is important to list required software, account access, or beginner skills before the steps begin because it prevents user frustration, saves time, and sets clear expectations.
+* When users know exactly what they need upfront, they can prepare their environment instead of being forced to stop mid-task.
+
+## 3. Keep Action Steps Short and Chronological
+Dense paragraphs confuse readers. To maintain engagement, format instructions as a punchy, numbered list where each number represents exactly one action.
+* Using short sentences, bold text for buttons, and a step-by-step order makes a guide easy to follow because it aligns with how the human brain processes information under cognitive load.
+* It reduces cognitive overload by:
+  - Enabling easier processing
+  - Preventing fatigue
+  - Speeds up scanning
+  - Promotes one action at a time
+
+## Summary
+By focusing on a single goal, layout requirements, and structured milestones, you turn frustrating software into a seamless learning experience for the global community.
