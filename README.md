@@ -5,7 +5,7 @@ I created this repository to document my journey as i prepare for remote work op
 ## Current goals
 Learn Github
 Prepare for Outreachy
-Improve my digital marketing skills
+Improve my technical writing and documentation skills
 Build a professional portfolio
 Secure a remote job
 
