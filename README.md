@@ -19,3 +19,13 @@ Today i learned how to:
 - Work with Git from the command line.
 
 This is my first local edit
+
+
+---
+
+## 🏆 Professional Certifications
+
+*   **AEO Fundamentals Certification** | HubSpot Academy 
+    *   **Issued:** September 2026 • **Expires:** October 2028
+    *   **Validated Skills:** Generative Engine Optimization (GEO), Search Intent mapping, data layout architecture for LLMs, and E-E-A-T trust alignment.
+    *   [🔗 Verify Official Certification Badge] https://app-eu1.hubspot.com/academy/achievements/p4d17m41/en/1/pasqualina-macharia/aeo-fundamentals
