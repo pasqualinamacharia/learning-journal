@@ -56,7 +56,7 @@ Evaluating an AEO system should never rely on a single, isolated visibility scor
 ---
 
 ## 🔑 Key Takeaway
-AEO is not about abandoning traditional optimization methods. It is about expanding your content architecture so it performs flawlessly across both legacy search engines and next-generation AI platforms. The baseline objective remains constant: make content valuable to human readers, highly scannable to automated indexing systems, and secure enough to act as an authoritative source.
+AEO is not about abandoning SEO. It is about expanding your content architecture so it performs flawlessly across both legacy search engines and next-generation AI platforms. The baseline objective remains constant: make content valuable to human readers, highly scannable to automated indexing systems, and secure enough to act as an authoritative source.
 
 ---
 
@@ -64,4 +64,4 @@ AEO is not about abandoning traditional optimization methods. It is about expand
 I successfully completed the official **HubSpot Academy AEO Fundamentals Certification** to validate these architectural principles. 
 
 *   **Repository Portfolio Owner:** Pasqualina Wangui Macharia
-*   **Official Verification Link:** [🔗 View My Live HubSpot Achievement Badge](https://hubspot.com)
+*   **Official Verification Link:** https://app-eu1.hubspot.com/academy/achievements/p4d17m41/en/1/pasqualina-macharia/aeo-fundamentals
